@@ -36,4 +36,9 @@
 * optimizing Model
 * ETC
 * Check accuray Model
+
+# data from Kaggle
+https://www.kaggle.com/competitions/titanic/data
+
+# Didapatkan algoritma terbaik adalah Naive bayes dibadingkan dengan Decision tree & KNN 
   
